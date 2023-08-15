@@ -1,6 +1,6 @@
 
 
-# Large Bayesian VAR of the US Economy authored by Richard Crump, Stefano Eusepi, Eric Qian, and Argia Sbordone
+# Python Codes for Large Bayesian VAR of the US Economy authored by Richard Crump, Stefano Eusepi, Domenico Giannone, Eric Qian, and Argia Sbordone
 
 ## Overview
 
@@ -24,4 +24,7 @@ Please refer to the docstrings within individual functions in the large_bvar.py 
 
 ## Contributing
 
-I welcome Contributions to improve and test the code. Please feel free to open an issue or submit a pull request. You may contact me for inquiries at joshi27s@uw.edu.
+I welcome suggestions to improve and test the Python code. Please feel free to open an issue or submit a pull request. You may contact me for inquiries at joshi27s@uw.edu.
+
+
+
