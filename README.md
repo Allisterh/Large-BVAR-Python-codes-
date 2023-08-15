@@ -17,6 +17,9 @@ I will add more functions in the large_bvar.py file, and add other Python script
 I translated the codes based on the following paper:
 
 Crump, Richard K., Stefano Eusepi, Domenico Giannone, Eric Qian, and Argia M. Sbordone. “A Large Bayesian VAR of the United States Economy.” SSRN Electronic Journal, 2021. https://doi.org/10.2139/ssrn.3908154.
+
+\vsapce{1cm}
+
 Lenza, Michele, and Giorgio Primiceri. “How to Estimate a VAR after March 2020.” Journal of Applied Economics 37, no. 4 (July 2022): 688–99. https://doi/10.1002/jae.2895
 
 ## Usage
