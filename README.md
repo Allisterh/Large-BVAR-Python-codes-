@@ -1,10 +1,10 @@
 
 
-# Python Codes for Large Bayesian VAR of the US Economy authored by Richard Crump, Stefano Eusepi, Domenico Giannone, Eric Qian, and Argia Sbordone
+# Python Codes for Large Bayesian VAR of the US Economy with Covid Volatility (Preliminary Stage)
 
 ## Overview
 
-This repository contains the Python implementation of a large Bayesian VAR (BVAR) model. The Python script contains functions that I translated from the original MATLAB functions.
+This repository contains the Python functions translated from original MATLAB files to run a large Bayesian VAR (BVAR) model. The details of the model are present in the paper titled "Large BVAR of the US Economy" authored by Richard Crump, Stefano Eusepi, Domenico Giannone, Eric Qian, and Argia Sbordone in 2021. Using this model as a benchmark on a smaller scale, Lenza and Primiceri extended it to account for volatility arising due to covid that struck and affected the US economy in March 2020. Harnessing the power of big data on Bayesian VARs, I am in the process of translating all MATLAB functions and main scripts that fit both types of model - with and without covid volatility.
 
 ## Functions
 
@@ -17,6 +17,7 @@ I will add more functions in the large_bvar.py file, and add other Python script
 I translated the codes based on the following paper:
 
 Crump, Richard K., Stefano Eusepi, Domenico Giannone, Eric Qian, and Argia M. Sbordone. “A Large Bayesian VAR of the United States Economy.” SSRN Electronic Journal, 2021. https://doi.org/10.2139/ssrn.3908154.
+Lenza, Michele, and Giorgio Primiceri. “How to Estimate a VAR after March 2020.” Journal of Applied Economics 37, no. 4 (July 2022): 688–99. https://doi/10.1002/jae.2895
 
 ## Usage
 
