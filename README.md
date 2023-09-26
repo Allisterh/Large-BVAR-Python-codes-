@@ -1,6 +1,6 @@
 
 
-# Python Codes for Large Bayesian VAR of the US Economy with Covid Volatility (Preliminary Stage)
+# Python Codes for Large Bayesian VAR of the US Economy with Covid Volatility 
 
 ## Overview
 
