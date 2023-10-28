@@ -27,7 +27,7 @@ Please refer to the docstrings within individual functions in the large_bvar.py 
 
 ## Contributing
 
-I welcome suggestions to improve and test the Python code. Please feel free to open an issue or submit a pull request. You may contact me for inquiries at joshi27s@uw.edu.
+I welcome suggestions to improve and test the Python code. You may contact me for inquiries at joshi27s@uw.edu.
 
 
 
